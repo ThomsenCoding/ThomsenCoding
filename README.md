@@ -32,7 +32,6 @@ def  __social__(self):
  └─$
 ```
 
-<p align="center"><img
 
  
 
