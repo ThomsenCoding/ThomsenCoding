@@ -22,10 +22,10 @@
 class Thomsen:
 
 def  __social__(self):
- self.gtb = "https://github.com/ThomsenCoding"
+ GitHub = "https://github.com/ThomsenCoding"
  self.dsc = "Coming Soon..." 
  self.tlg = "Coming Soon..."
   
- ┌──(Thomsen@work)-[~/]
- └─$
+def  __working__(self):
+ └─$ Working on a = "Token Grabber"
 ```
