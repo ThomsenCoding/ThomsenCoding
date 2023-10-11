@@ -17,7 +17,7 @@
 
 ```python
 ┌──(Thomsen@root)-[~/]
-└─$ dog Thomsen.py
+└─$ Thomsen.py
 
 def  __social__(self):
  GitHub "https://github.com/ThomsenCoding"
