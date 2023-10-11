@@ -23,9 +23,9 @@ class Thomsen:
 
 def  __social__(self):
  GitHub = "https://github.com/ThomsenCoding"
- self.dsc = "Coming Soon..." 
- self.tlg = "Coming Soon..."
+ Discord = "Coming Soon..." 
+ YouTube = "Coming Soon..."
   
 def  __working__(self):
- └─$ Working on a = "Token Grabber"
+ Working on a = "Token Grabber"
 ```
