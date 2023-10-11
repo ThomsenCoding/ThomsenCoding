@@ -25,5 +25,5 @@ def  __social__(self):
  YouTube "Coming Soon..."
   
 def  __working__(self):
- Working on a "Website Ip Grabber" 80%
+ Working "Website Ip Grabber" 80%
 ```
