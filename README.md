@@ -21,7 +21,7 @@
 ┌──(Thomsen@root)-[~/]
 └─$ dog Thomsen.py
 
-class Ayhuuu:
+class Thomsen:
 
 def  __social__(self):
  self.gtb = "https://github.com/ThomsenCoding"
