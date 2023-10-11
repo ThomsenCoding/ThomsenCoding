@@ -19,7 +19,7 @@
 
 ```python
 ┌──(Thomsen)-[~/]
-└─$ cat Ayhuuu.py
+└─$ dog Thomsen.py
 
 class Ayhuuu:
 
