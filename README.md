@@ -1,15 +1,62 @@
-<h1 align="center">Hi I'm Thomsen</h1>
-<h3 align="center">I'm Developer from Danmark</h3>
+<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=ThomsenCoding&label=Profile%20views&color=292929&style=flat" alt="ThomsenCoding" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=292929&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ThomsenCoding" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=292929&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ThomsenCoding" alt="Profile Forks"></a>
+
+<a href="https://github.com/Ayhuuu"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+
+
+<p align="center">
+  <img style="border-radius: 15px; display: block; margin: 0 auto; margin-bottom: 20px;" width="400" src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/kedy.gif">
 </p>
 
 
-- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ThomsenCoding?tab=repositories)
 
-- 📫 You can reach me by joining my [Discord](discord.gg/nordeservices)
+
+
+
+
+
+
+
+
+```python
+┌──(Ayhuuu@root)-[~/]
+└─$ cat Ayhuuu.py
+
+class Ayhuuu:
+
+def  __social__(self):
+ self.gtb = "https://github.com/Ayhuuu"
+ self.dsc = "Ayhu..." 
+ self.tlg = "Ayhu..."
+  
+ ┌──(Ayhuuu@root)-[~/]
+ └─$
+```
+
+<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":Ayhuuu" /></p>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+<a href="https://github.com/Ayhuuu/"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+
