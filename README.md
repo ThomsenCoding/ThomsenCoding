@@ -26,6 +26,6 @@ def  __social__(self):
  self.dsc = "Coming Soon..." 
  self.tlg = "Coming Soon..."
   
- ┌──(Thomsen@root)-[~/]
+ ┌──(Thomsen@work)-[~/]
  └─$
 ```
