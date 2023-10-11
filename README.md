@@ -18,7 +18,7 @@
 
 
 ```python
-┌──(Thomsen)-[~/]
+┌──(Thomsen@root)-[~/]
 └─$ dog Thomsen.py
 
 class Ayhuuu:
@@ -28,6 +28,6 @@ def  __social__(self):
  self.dsc = "Coming Soon..." 
  self.tlg = "Coming Soon..."
   
- ┌──(Ayhuuu@root)-[~/]
+ ┌──(Thomsen@root)-[~/]
  └─$
 ```
