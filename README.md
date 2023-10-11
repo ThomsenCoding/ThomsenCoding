@@ -18,15 +18,15 @@
 
 
 ```python
-┌──(Ayhuuu@root)-[~/]
+┌──(Thomsen)-[~/]
 └─$ cat Ayhuuu.py
 
 class Ayhuuu:
 
 def  __social__(self):
- self.gtb = "https://github.com/Ayhuuu"
- self.dsc = "Ayhu..." 
- self.tlg = "Ayhu..."
+ self.gtb = "https://github.com/ThomsenCoding"
+ self.dsc = "Coming Soon..." 
+ self.tlg = "Coming Soon..."
   
  ┌──(Ayhuuu@root)-[~/]
  └─$
