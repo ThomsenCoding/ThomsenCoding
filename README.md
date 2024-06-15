@@ -25,6 +25,5 @@ def  __social__(self):
  YouTube "Coming Soon..."
   
 def  __working__(self):
- Working On "CSGO 2 TRIGGERBOT" 85%
- Working On "Ddos Tool" 65%
+ Working On "CSGO 2 TRIGGERBOT 85%" And Working On "DDOS TOOL 65%"
 ```
