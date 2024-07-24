@@ -21,8 +21,8 @@
 
 def  __social__(self):
  GitHub "https://github.com/ThomsenCoding"
- Discord "https://discord.gg/VEpD3Hhcud"
- YouTube "https://www.youtube.com/channel/@ThomsenCoding"
+ Discord "[Discord](https://discord.gg/Cg2duJRj2J)"
+ YouTube "[YouTube](https://www.youtube.com/channel/UClAZUThD4cb312Z-A9MFdzw)"
   
 def  __working__(self):
  Working On "FiveM PC Check 100%"
